@@ -5,7 +5,7 @@ source("https://www.dropbox.com/scl/fi/9qq0l58zr7vdfk45v1suj/intord.R?rlkey=1dt0
 
 install.packages("fredr")
 library(fredr)
-fredr_set_key("515a1424d99aebf0f1005021ed2f69ca")
+fredr_set_key("YourAPIKEY")
 
 
 #unemployment rate
